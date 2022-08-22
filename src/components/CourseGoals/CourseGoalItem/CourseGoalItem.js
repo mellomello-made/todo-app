@@ -1,7 +1,5 @@
 import React from 'react';
-
 import './CourseGoalItem.css';
-import styled from 'styled-components';
 
 const CourseGoalItem = (props) => {
   const deleteHandler = () => {
